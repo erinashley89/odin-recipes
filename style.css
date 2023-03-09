@@ -1,5 +1,6 @@
 * {
     background-color: lightgoldenrodyellow;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 h1 {
@@ -20,15 +21,21 @@ a:link {
 }
 
 a:visited {
-    color: rgb(49, 4, 49);
+    color: darkgreen;
 }
 
 a:link, a:visited {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 p {
     text-align: center;
+    font-size: 24px;
+    color: rgb(165, 18, 165);
+}
+
+.ingredients,
+.directions {
     font-size: 24px;
     color: rgb(165, 18, 165);
 }
